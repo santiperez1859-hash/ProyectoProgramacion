@@ -1,0 +1,16 @@
+# Eclipse: lo que se genera al compilar
+bin/
+*.class
+.metadata/
+RemoteSystemsTempFiles/
+
+# Práctica personal de cada uno (paquete practica)
+**/src/practica/
+
+# Datos de prueba del programa: cada uno tiene los suyos
+biblioteca.bin
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
